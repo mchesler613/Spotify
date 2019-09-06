@@ -1,6 +1,6 @@
 let accessToken;
 const clientId = 'd189c1b5288b4778bab3c7d60ff2f4cb';
-const redirectUri ='http://localhost:3000'; // 'http://left-purpose.surge.sh'; // 
+const redirectUri = 'http://spotifymusic.netlify.com' // 'http://localhost:3000'; // 'http://left-purpose.surge.sh'; // 
 
 const Spotify = {
     getAccessToken() {
